@@ -8,14 +8,13 @@ namespace Music
     {
         private static double Weight(uint index) {
             return index switch {
-                1 => 74003754,
-                2 => 67930932,
-                3 => -30810271,
-                4 => 17806237,
-                5 => -7712146,
+                1 => 7000,
+                2 => 3000,
+                3 => 450,
+                4 => 4,
+                5 => 1.5,
                 _ => 0,
             };
-            //return Math.Pow(0.25, index);
         }
 
         // TODO: Add a test for this method!!
