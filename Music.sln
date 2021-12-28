@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Music", "Music\Music.csproj", "{6BB86EBE-AC87-472E-8605-34298FB8351E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicTests", "MusicTests\MusicTests.csproj", "{5DEF6600-DEED-473A-B416-B4FFB071B2F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotesTests", "MusicTests\NotesTests.csproj", "{5DEF6600-DEED-473A-B416-B4FFB071B2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{F2D3E174-1622-4694-BF10-CBE76D3D16B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5DEF6600-DEED-473A-B416-B4FFB071B2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DEF6600-DEED-473A-B416-B4FFB071B2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DEF6600-DEED-473A-B416-B4FFB071B2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D3E174-1622-4694-BF10-CBE76D3D16B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D3E174-1622-4694-BF10-CBE76D3D16B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D3E174-1622-4694-BF10-CBE76D3D16B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D3E174-1622-4694-BF10-CBE76D3D16B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

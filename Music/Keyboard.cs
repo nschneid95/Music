@@ -15,5 +15,9 @@ namespace Music
         public Keyboard() {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e) {
+
+        }
     }
 }

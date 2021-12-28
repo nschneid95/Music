@@ -1,11 +1,11 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Music;
+using Notes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Music.Tests
+namespace Notes.Tests
 {
     [TestClass()]
     public class WaveHeaderTests

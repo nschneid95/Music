@@ -1,10 +1,10 @@
-﻿using Music;
+﻿using Notes;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Music.Tests
+namespace Notes.Tests
 {
     [TestClass()]
     public class WaveTests
